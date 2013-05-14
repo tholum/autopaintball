@@ -7,7 +7,7 @@
 
 
 #include <cstdlib>
-#include <cv.h>
+#include <opencv/cv.h>
 using namespace cv;
 
 /*
