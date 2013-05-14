@@ -14,6 +14,7 @@ using namespace cv;
  * 
  */
 int main(int argc, char** argv) {
+    printf( "Starting..\n " );
     CvCapture* capture = cvCaptureFromCAM( CV_CAP_ANY );
     while(1){
         IplImage* frame = cvQueryFrame( capture );
