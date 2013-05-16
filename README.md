@@ -21,4 +21,7 @@ Longterm Goals
 - [ ] Muliple Colors
 - [ ] "Kill Cam" Record video's of hits
 
-The Biggest feature I plan on having on in this version that they currently is the abbility to switch which team ( Or safe color ) so One gameset people could play is "Capture the turrets" where they can 
+Rilly Long term Goals
+
+- [ ] Port to android ( use ADK for hardware support )
+- [ ] Detect people vs animals ext.. ( probably using a nural network or something )
